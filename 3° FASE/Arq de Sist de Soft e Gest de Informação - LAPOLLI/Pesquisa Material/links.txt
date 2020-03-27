@@ -1,0 +1,27 @@
+cliente-servidor
+
+https://pt.slideshare.net/marciaabrahim/arquitetura-cliente-servidor
+
+MVC
+
+https://tableless.com.br/mvc-afinal-e-o-que/
+
+https://www.devmedia.com.br/padrao-mvc-java-magazine/21995
+
+http://www.macoratti.net/vbn_mvc.htm
+
+P2P
+
+https://pt.slideshare.net/niltonrpereira/arquitetura-peer-topeer-p2p
+
+https://compartilhamentodearquivoss.wordpress.com/category/vantagens-e-desvantagens-do-modelo-p2p/
+
+COMPUTAÇÃO DISTRIBUÍDA (cliente-server e P2P são exemplos)
+
+https://www.webartigos.com/artigos/computacao-distribuida/2903
+
+SOA
+
+https://www.devmedia.com.br/vantagens-e-desvantagens-de-soa/27437
+
+MANDAWALLI, Felipe. Pagar para fazer trabalho acadêmico é ilegal. Disponível em: https://blog.mettzer.com/fraude-academica-e-ilegal/ Acesso em: 23 de junho de 2017

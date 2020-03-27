@@ -1,0 +1,22 @@
+organização do trabalho
+
+1 - Conceito Geral: Arquitetura de Software
+
+2 - cliente-servidor
+
+3 - MVC
+
+4 - P2P
+
+5 - Computação Distribuída
+
+6 - SOA
+
+Sobre cada uma delas:
+
+* Origem
+* vantagens X desvantagens
+* Aplicação
+* Exemplo
+
+7 - Referências
