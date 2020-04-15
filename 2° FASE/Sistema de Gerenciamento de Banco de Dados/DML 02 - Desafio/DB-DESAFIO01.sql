@@ -47,7 +47,7 @@ select if(sexo = "m", concat("Sr. ", concat(upper(substr(nome,1,1))),lower(subst
 
 /* Crie uma consulta SQL para criar a frase juntando o nome do aluno com a cidade o resultado deve 
 aparecer da seguinte forma “Maria mora em São José"; */
-select concat(nome," mora em ",cidade) as dado from aluno;
+select concat(nome," mora em ",cidade) as dado from aluno where cidade is not null;
 
 /* Crie uma consulta SQL para listar todos os alunos, listando o nome e a idade de cada aluno; */
 select nome, timestampdiff(year, DT_NASCIMENTO, curdate()) as idade from aluno;
